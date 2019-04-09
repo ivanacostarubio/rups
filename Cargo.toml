@@ -5,3 +5,6 @@ authors = ["Ivan Acosta-Rubio <ivan@softwarecriollo.com>"]
 edition = "2018"
 
 [dependencies]
+
+threadpool = "1.0"
+chrono = "0.4"
